@@ -1,0 +1,1 @@
+# Espanso-System-Wide-Autocorrect
