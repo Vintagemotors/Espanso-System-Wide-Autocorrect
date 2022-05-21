@@ -1,4 +1,8 @@
 # Espanso-System-Wide-Autocorrect 
+
+This project is an autocorrect dictionary for the open-source Text Expander, Espanso available here: https://github.com/espanso 
+Please feel free to submit additional terms under pull requests. 
+
 Instructions: 
 
 1. Open the file in whatever text editor you prefer as long as it supports copying as raw text. (I use notepad++) 
