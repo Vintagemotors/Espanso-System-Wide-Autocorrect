@@ -1,6 +1,6 @@
 # Espanso-System-Wide-Autocorrect 
 
-This project is an autocorrect dictionary for the open-source Text Expander, Espanso available here: https://github.com/espanso 
+This project is an autocorrect dictionary for the open-source Text Expander "Espanso", available here: https://github.com/espanso 
 
 Please feel free to submit additional terms under pull requests. 
 
