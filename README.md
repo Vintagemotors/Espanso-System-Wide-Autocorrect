@@ -3,7 +3,7 @@
 
 Please feel free to submit additional dictionary entries under "Pull requests". 
 
-Instructions: 
+Installation Instructions: 
 
 A -->  For new users of Espanso: 
 1. Navigate to your base.yml file (on windows it will be in {C:\Users\$user\AppData\Roaming\espanso} by default) 
