@@ -1,1 +1,1 @@
-I litorally don't care just refrain from submitting nonsensical pull requests. 
+I literally don't care just refrain from submitting nonsensical pull requests. 
