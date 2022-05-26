@@ -1,5 +1,6 @@
 # Espanso-System-Wide-Autocorrect 
 
+I will no longer be posting versions to the releases section during pre-release phase as changes are too frequent and there is no reason why anyone should want to use an older version so please just use the version from main. 
 
 Please feel free to submit additional dictionary entries under "Pull requests". 
 
