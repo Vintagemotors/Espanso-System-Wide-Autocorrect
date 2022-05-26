@@ -679,6 +679,7 @@ matches:
     replace: "hydrazine"
   - trigger: "hydrazene"
     replace: "hydrazine"
+
     
 
      #end of personal dictionary 
@@ -2859,10 +2860,14 @@ matches:
     replace: "componnt "
   - trigger: "composate "
     replace: "composite "
-  - trigger: "comprable "
-    replace: "comparable "
-  - trigger: "comprimise "
-    replace: "compromise "
+  - trigger: "comprable"
+    replace: "comparable"
+  - trigger: "comparible"
+    replace: "comparable"
+  - trigger: "comprimise"
+    replace: "compromise"
+  - trigger: "comprimised"
+    replace: "compromised"
   - trigger: "compulsary "
     replace: "compulsory "
   - trigger: "compulsery "
@@ -6033,6 +6038,8 @@ matches:
     replace: "literature "
   - trigger: "littel "
     replace: "little "
+  - trigger: "litorally"
+    replace: "literally"
   - trigger: "litterlly "
     replace: "literally "
   - trigger: "litttle "
