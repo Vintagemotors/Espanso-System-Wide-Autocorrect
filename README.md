@@ -9,7 +9,7 @@ Instructions:
 A -->  For new users of Espanso: 
 1. Navigate to your base.yml file (on windows it will be in {C:\Users\$user\AppData\Roaming\espanso} by default) 
 2. Delete it and replace it with the latest release of Autocorrect from the "Releases" page. 
-3. You may need to change the file extension to .yml if windows messes with it. 
+3. You may need to change the file extension to .yml if your operating system messes with it upon download. 
 
 
 B -->  For existing users of Espanso: 
