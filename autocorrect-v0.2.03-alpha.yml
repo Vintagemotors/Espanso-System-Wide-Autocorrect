@@ -737,6 +737,25 @@ matches:
     replace: "aspiring"
   - trigger: "asprising"
     replace: "aspiring" 
+  - trigger: "conditinos"
+    replace: "conditions" 
+  - trigger: "mounjt"
+    replace: "mount" 
+  - trigger: "statnio"
+    replace: "station" 
+  - trigger: "realised" 
+    replace: "realized" 
+  - trigger: "werent"
+    replace: "weren't"
+  - trigger: "sticvker"
+    replace: "sticker" 
+  - trigger: "analyser"
+    replace: "analyzer" 
+  - trigger: "spartain" 
+    replace: "spartan" 
+    
+    
+    
     
     
     
@@ -6492,8 +6511,8 @@ matches:
     replace: "months "
   - trigger: "montypic "
     replace: "monotypic "
-  - trigger: "mor "
-    replace: "more "
+  - trigger: " mor "
+    replace: " more "
   - trigger: "moreso "
     replace: "more o "
   - trigger: "morgage "
