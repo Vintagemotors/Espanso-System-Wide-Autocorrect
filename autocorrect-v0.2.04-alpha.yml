@@ -753,6 +753,11 @@ matches:
     replace: "analyzer" 
   - trigger: "spartain" 
     replace: "spartan" 
+  - trigger: "predatiopn"
+    replace: "predation" 
+  - trigger: " anyt " 
+    replace: " any "
+    
     
     
     
@@ -4315,8 +4320,6 @@ matches:
     replace: "equivalent "
   - trigger: "equivlalent "
     replace: "equivalent "
-  - trigger: "erally "
-    replace: "orally "
   - trigger: "eratic "
     replace: "erratic "
   - trigger: "eratically "
