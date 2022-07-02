@@ -757,6 +757,14 @@ matches:
     replace: "predation" 
   - trigger: " anyt " 
     replace: " any "
+  - trigger: "restoratoin"
+    replace: "restoration" 
+  - trigger: "passanger" 
+    replace: "passenger" 
+  - trigger: "friggate"
+    replace: "frigate" 
+  - trigger: "ligths"
+    replace: "lights"
     
     
     
@@ -1578,8 +1586,8 @@ matches:
     replace: "anthropologist "
   - trigger: "anthropolgy "
     replace: "anthropology "
-  - trigger: "anual "
-    replace: "annual "
+  - trigger: " anual "
+    replace: " annual "
   - trigger: "anulled "
     replace: "annulled "
   - trigger: "anwsered "
