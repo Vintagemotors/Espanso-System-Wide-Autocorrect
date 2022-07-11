@@ -765,6 +765,13 @@ matches:
     replace: "frigate" 
   - trigger: "ligths"
     replace: "lights"
+  - trigger: "anywasy" 
+    replace: "anyways" 
+  - trigger: "enegine" 
+    replace: "engine" 
+  - trigger: "ytiohrt"
+    replace: "trigger" 
+    
     
     
     
@@ -9718,8 +9725,8 @@ matches:
     replace: "throughout "
   - trigger: "thru "
     replace: "through "
-  - trigger: "ths "
-    replace: "this "
+  - trigger: " ths "
+    replace: " this "
   - trigger: "thsi "
     replace: "this "
   - trigger: "thsoe "
