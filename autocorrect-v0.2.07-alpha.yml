@@ -105,8 +105,8 @@ matches:
     replace: "very"
   - trigger: "veryy"
     replace: "very"
-  - trigger: "patr" 
-    replace: "part" 
+  - trigger: "patr " 
+    replace: "part " 
   - trigger: "poart"
     replace: "part" 
   - trigger: "ponit"
@@ -771,7 +771,9 @@ matches:
     replace: "engine" 
   - trigger: "ytiohrt"
     replace: "trigger" 
-    
+  - trigger: ".copm"
+    replace: ".com"
+
     
     
     
