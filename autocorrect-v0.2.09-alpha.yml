@@ -871,6 +871,8 @@ matches:
     replace: " out "
   - trigger: "hwenever"
     replace: "whenever"
+  - trigger: "marketplcae"
+    replace: "marketplace" 
     
     
  
@@ -7096,8 +7098,6 @@ matches:
     replace: "optimizations "
   - trigger: "optomism "
     replace: "optimism "
-  - trigger: "orded "
-    replace: "ordered "
   - trigger: "organim "
     replace: "organis "
   - trigger: "organistion "
@@ -10394,8 +10394,6 @@ matches:
     replace: "very "
   - trigger: "waht "
     replace: "what "
-  - trigger: "wanna "
-    replace: "want o "
   - trigger: "warantee "
     replace: "warranty "
   - trigger: "wardobe "
