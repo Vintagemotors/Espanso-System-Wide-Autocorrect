@@ -17,3 +17,8 @@ B -->  For existing users of Espanso:
 2. Select and Copy all of the text Starting at "# Beginning of Personal Dictionary" 
 5. Open your base.yml file and paste it below the default Espanso contents. 
 6. Hit save and wait for the Espanso reload confirmation. 
+
+
+
+
+![VMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintagemotors)](https://github.com/anuraghazra/github-readme-stats)
