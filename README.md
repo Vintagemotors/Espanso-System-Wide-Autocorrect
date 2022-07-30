@@ -19,4 +19,6 @@ B -->  For existing users of Espanso:
 6. Hit save and wait for the Espanso reload confirmation. 
 
 
-[![](https://github-readme-stats-Vintagemotors.vercel.app/api?username=Vintagemotors
+(https://github-readme-stats-Vintagemotors.vercel.app/api?username=Vintagemotors&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+(https://github-readme-stats-Vintagemotors.vercel.app/api/top-langs/?username=Vintagemotors&theme=tokyonight&hide=CSSlayout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+(https://komarev.com/ghpvc/?username=Vintagemotors&color=28AFB0)](https://github.com/Vintagemotors)  
