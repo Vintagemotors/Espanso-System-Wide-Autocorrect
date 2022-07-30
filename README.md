@@ -21,4 +21,4 @@ B -->  For existing users of Espanso:
 
 
 
-![VMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintagemotors)](https://github.com/anuraghazra/github-readme-stats)
+![VMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintagemotors)]
