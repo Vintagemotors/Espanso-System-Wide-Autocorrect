@@ -20,8 +20,8 @@ B -->  For existing users of Espanso:
 
 
 ## Statistics
-[![](https://github-readme-stats-gamma-eight-76.vercel.app/api?username=Vintagemotors&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Vintagemotors/Espanso-System-Wide-Autocorrect)  
-[![](https://github-readme-stats-gamma-eight-76.vercel.app/api/top-langs/?username=Vintagemotors&theme=tokyonight&&hide=CSSlayout=compact&hide_border=true)](https://github.com/Vintagemotors/Espanso-System-Wide-Autocorrect)  
+[![](https://github-readme-stats-updated-opbwxjrxi-vintagemotors.vercel.app/api?username=Vintagemotors&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Vintagemotors/Espanso-System-Wide-Autocorrect)  
+[![](https://github-readme-stats-updated-opbwxjrxi-vintagemotors.vercel.app/api/top-langs/?username=Vintagemotors&theme=tokyonight&&hide=CSSlayout=compact&hide_border=true)](https://github.com/Vintagemotors/Espanso-System-Wide-Autocorrect)  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vintagemotors.Espanso-System-Wide-Autocorrect)
 [![](https://komarev.com/ghpvc/?username=Vintagemotors&color=28AFB0)](https://github.com/Vintagemotors) 
 
