@@ -20,6 +20,8 @@ B -->  For existing users of Espanso:
 
 
 ## Statistics
-[![](https://github-readme-stats-Vintagemotors.vercel.app/api?username=Vintagemotors&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![](https://github-readme-stats-Vintagemotors.vercel.app/api/top-langs/?username=Vintagemotors&theme=tokyonight&&hide=CSSlayout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![](https://github-readme-stats-anuraghazra.vercel.app/api?username=Vintagemotors&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Vintagemotors&theme=tokyonight&&hide=CSSlayout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vintagemotors.Espanso-System-Wide-Autocorrect)
 [![](https://komarev.com/ghpvc/?username=Vintagemotors&color=28AFB0)](https://github.com/Vintagemotors) 
+
