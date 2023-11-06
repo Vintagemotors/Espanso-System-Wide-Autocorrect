@@ -1,5 +1,7 @@
 # Espanso-System-Wide-Autocorrect 
 
+Release cadence update: as it is gaining maturity you will see less frequent and larger updates adding terms and resolving longstanding bugs - I think a release canidate may be ready by end of Q1 2024. 
+
 I will no longer be posting versions to the releases section during pre-release phase as changes are too frequent and there is no reason why anyone should want to use an older version so please just use the version from main. 
 
 Please feel free to submit additional dictionary entries under "Pull requests". 
