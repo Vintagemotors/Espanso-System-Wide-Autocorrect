@@ -15,7 +15,7 @@ A -->  For new users of Espanso:
 
 
 B -->  For existing users of Espanso: 
-1. Open the file in whichever text editor you prefer so long as it supports copying raw text. (I use notepad++) 
+1. Open the file in whichever text editor you prefer so long as it supports copying raw text. (I use Notepad++, CotEditor, Kate) 
 2. Select and Copy all of the text Starting at "# Beginning of Personal Dictionary" 
 5. Open your base.yml file and paste it below the default Espanso contents. 
 6. Hit save and wait for the Espanso reload confirmation. 
